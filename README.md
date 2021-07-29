@@ -1,5 +1,7 @@
 # DDen Modded Changelog
 
+## All numerical values, as well as spawn locations and potentially other things are all highly configurable, and subject to change/adjustment in the future. These are just the default values that are used if no other values are defined.
+
 ## Custom Items
 
 - `[EM-119]` An EMP Grenade. This grenade acts similar to an Implosion grenade, however when it detonates, all of the doors in the room it is in are locked open, and the lights disabled for a few seconds. If SCP-079 is present in the room, it will send him back to his spawn camera. Also disabled all speakers in the facility temporarily. 
