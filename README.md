@@ -123,7 +123,10 @@
 ## Bug Fixes
 
 - `[Scp173 Anticheat]` The Anticheat should no longer kill SCP-173 when he attempts to move vertically while someone is looking at him.
-- 
+
 - `[Last Teammember]` Players will now get the "You are the last teammember alive" message when they are the actual last member of their team Chaos, NTF or SCP, rather than when they are simply the last member of their role.
-- 
+
 - `[Victory Screen]` The base-game logic for the end of round victory screen has been restored. The victory screen will no longer always display the last team standing as the victor. This means that if no Class-D escape, Chaos cannot win. If any Scientists die, NTF cannot win.
+
+- `[SCP Swap]` SCP-049-2 will no longer be able to swap SCPs if they are created within the scpswap window.
+- `[SCP Swap]` The SCP swap command now has a short delay of 10seconds.
