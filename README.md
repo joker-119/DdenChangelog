@@ -105,7 +105,7 @@
 	- Pets who are misbehaving can be killed by their owners with the ``.pet kill`` command in the client console.
 	- Pets can be renamed by their owners with the ``.pet rename New Name Here`` command in the client console.
 	- Pets roles can be changed by their owners with the ``.pet role NewRole`` command in the client console.
-		- Valid roles are: Scp049, Scp0492, Scp096, Scp106 and Scp173.
+		- Valid roles are: Scp049, Scp0492, Scp096, Scp106, Scp173, Scp93953 and Scp93989.
 	- Admins can kill misbehaving pets with the ``dden pet akill OwnerName`` command in the RA console.
 	- Admins can temporarily assign players a pet for a single round with the ``dden pet assign OwnerName`` command in the RA console.
 
