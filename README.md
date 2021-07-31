@@ -121,6 +121,8 @@
 
 - `[Zombie Prox Chat]` Zombies will now be able to use porximity chat.
 
+- `[Better 939]` - Better939 changes the size of 939 to be slightly smaller, while reworking some of his mechanics. He is now faster than humans by default, however he gains less of a speed boost when taking damage. When he takes damage, he will also build his AHP meter. This meter does not negate incoming damage like normal, instead it is converted into extra damage on his next attack.
+
 
 ## Bug Fixes
 
