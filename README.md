@@ -97,11 +97,11 @@
 ## New Mechanics
 
 - `[Chaos On Start]` There is 20% chance when a round begins that all Facility Guards will be replaced with Chaos Insurgency. [Unmodded]
-- 
+
 - `[Spectate Void]` Spectators will see a "Void" spectate choice while dead. This will make them spectate an empty void, which allows them to hear spectator chat without having to hear proximity chat around whoever they are spectating. [Unmodded]
-- 
+
 - `[Generator Overcharges]` When a generator completes it's activation cycle, for a few seconds the generator panel will emit sparks of electricity. Players standing too close to the generator while this occurs will be damaged for 5 damage every second and be afflicted with the "Burned" status effect for 10s. This effect causes the player affected to take increased damage from all sources.
-- 
+
 - `[Pets]` Pets are available to be given out to players. Who will have access is yet to be decided. Pets are small NPC SCPs that will follow their 'owner' around. Pets will 'run away' temporarily if the user holds their crouch button to avoid making noise or letting 939 see where hiding players are. 
 	- Pets can be damaged and killed. If your pet is killed, it cannot be respawned for the rest of the round. 
 	- Pets who are misbehaving can be killed by their owners with the ``.pet kill`` command in the client console.
