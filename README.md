@@ -119,6 +119,8 @@
 - `[Breach Announcement]` The C.A.S.S.I.E. system will sometimes make a special announcement when the round starts, indicating there has been a containment breach.
 	- There are multiple announcements C.A.S.S.I.E. can make, they are chosen at random when the round begins.
 
+- `[Zombie Prox Chat]` Zombies will now be able to use porximity chat.
+
 
 ## Bug Fixes
 
