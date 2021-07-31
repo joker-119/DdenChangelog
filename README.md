@@ -2,6 +2,8 @@
 
 ## All numerical values, as well as spawn locations and potentially other things are all highly configurable, and subject to change/adjustment in the future. These are just the default values that are used if no other values are defined.
 
+# Items marked with the [Unmodded] tag, will affect all DDen Servers, including the Official one. Anything without the tag will only be available on the DDen servers marked as [Modded] in-game.
+
 ## Custom Items
 
 - `[EM-119]` An EMP Grenade. This grenade acts similar to an Implosion grenade, however when it detonates, all of the doors in the room it is in are locked open, and the lights disabled for a few seconds. If SCP-079 is present in the room, it will send him back to his spawn camera. Also disabled all speakers in the facility temporarily. 
@@ -94,9 +96,9 @@
 
 ## New Mechanics
 
-- `[Chaos On Start]` There is 20% chance when a round begins that all Facility Guards will be replaced with Chaos Insurgency.
+- `[Chaos On Start]` There is 20% chance when a round begins that all Facility Guards will be replaced with Chaos Insurgency. [Unmodded]
 - 
-- `[Spectate Void]` Spectators will see a "Void" spectate choice while dead. This will make them spectate an empty void, which allows them to hear spectator chat without having to hear proximity chat around whoever they are spectating.
+- `[Spectate Void]` Spectators will see a "Void" spectate choice while dead. This will make them spectate an empty void, which allows them to hear spectator chat without having to hear proximity chat around whoever they are spectating. [Unmodded]
 - 
 - `[Generator Overcharges]` When a generator completes it's activation cycle, for a few seconds the generator panel will emit sparks of electricity. Players standing too close to the generator while this occurs will be damaged for 5 damage every second and be afflicted with the "Burned" status effect for 10s. This effect causes the player affected to take increased damage from all sources.
 - 
@@ -119,18 +121,18 @@
 - `[Breach Announcement]` The C.A.S.S.I.E. system will sometimes make a special announcement when the round starts, indicating there has been a containment breach.
 	- There are multiple announcements C.A.S.S.I.E. can make, they are chosen at random when the round begins.
 
-- `[Zombie Prox Chat]` Zombies will now be able to use porximity chat.
+- `[Zombie Prox Chat]` Zombies will now be able to use porximity chat. [Unmodded]
 
 - `[Better 939]` - Better939 changes the size of 939 to be slightly smaller, while reworking some of his mechanics. He is now faster than humans by default, however he gains less of a speed boost when taking damage. When he takes damage, he will also build his AHP meter. This meter does not negate incoming damage like normal, instead it is converted into extra damage on his next attack.
 
 
 ## Bug Fixes
 
-- `[Scp173 Anticheat]` The Anticheat should no longer kill SCP-173 when he attempts to move vertically while someone is looking at him.
+- `[Scp173 Anticheat]` The Anticheat should no longer kill SCP-173 when he attempts to move vertically while someone is looking at him. [Unmodded]
 
-- `[Last Teammember]` Players will now get the "You are the last teammember alive" message when they are the actual last member of their team Chaos, NTF or SCP, rather than when they are simply the last member of their role.
+- `[Last Teammember]` Players will now get the "You are the last teammember alive" message when they are the actual last member of their team Chaos, NTF or SCP, rather than when they are simply the last member of their role. [Unmodded]
 
-- `[Victory Screen]` The base-game logic for the end of round victory screen has been restored. The victory screen will no longer always display the last team standing as the victor. This means that if no Class-D escape, Chaos cannot win. If any Scientists die, NTF cannot win.
+- `[Victory Screen]` The base-game logic for the end of round victory screen has been restored. The victory screen will no longer always display the last team standing as the victor. This means that if no Class-D escape, Chaos cannot win. If any Scientists die, NTF cannot win. [Unmodded]
 
-- `[SCP Swap]` SCP-049-2 will no longer be able to swap SCPs if they are created within the scpswap window.
-- `[SCP Swap]` The SCP swap command now has a short delay of 10seconds.
+- `[SCP Swap]` SCP-049-2 will no longer be able to swap SCPs if they are created within the scpswap window. [Unmodded]
+- `[SCP Swap]` The SCP swap command now has a short delay of 10seconds. [Unmodded]
