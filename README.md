@@ -85,7 +85,7 @@
 
 - `[Pocket Dimension Zombie]` A mutated zombie that was subjected to SCP-106 too many times in their human life. They are resistant to ballistic damage, and have a small chance to teleport victims to the Pocket Dimension when they attack them.
 
-- `[Plague Zombie]` A mutated zombie that moves slower than normal zombies, and deal less up-front damage with their attacks, however they have a large chance to infect their victims with SCP-008. They also have an ability which fires a projectile that visually explodes similar to a grenade (does not do grenade damage), infecting victims with SCP-008. Anyone who dies while infected with SCP-008 will immediately become a zombie upon death.
+- `[Plague Zombie]` A mutated zombie that moves slower than normal zombies, and deal less up-front damage with their attacks, however they have a large chance to infect their victims with SCP-008. They also have an ability which fires a projectile that visually explodes similar to a grenade (does not do grenade damage); infecting victims with SCP-008. Anyone who dies while infected with SCP-008 will immediately become a zombie upon death.
 
 - `[Medic Zombie]` A former NTF Medic that, while slower, retained the ability to activate their healing ability, however now, it will heal other SCPs, instead of humans. They also do slightly less damage than normal zombies.
 
