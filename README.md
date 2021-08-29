@@ -24,7 +24,7 @@
 - `[MG-119]` This gun is modified to fire self-injecting projectile darts. When fired at friendly targets, it will heal them. When fired at SCP-049-2, it will slowly begin to 'cure' them, repeated applications will eventually revert the SCP-049-2 to their human state. Has no effect on other hostile targets. 
 	- 40% in GR-18, 50% in Gate A, 50% in Gate B. Not guaranteed to spawn. Heals for ~19 per shot. Zombies require 200 healing to be revived. Zombie healing degrades over time, but multiple people can use an MG-119 to heal zombies faster.
 
-- `[SCP-127]` A gun that slowly regenerates it's clip over time, but trying to reload it normally has no effect. 
+- `[SCP-127]` A gun that slowly regenerates its clip over time, but trying to reload it normally has no effect. 
 	- Inside locked room by 173 spawn. Clip size of 12, regenerates 2 ammo every 10s
 
 - `[SG-119]` A shotgun. Fairly self-explanatory. 
@@ -36,7 +36,7 @@
 - `[TG-119]` This gun is also modified to fire self-injecting projectile darts. When fired at a hostile target, it will tranquilize them, rendering them unconscious for several seconds. 
 	- 50% GR-18, 80% Locked room by 173 spawn. Not guaranteed to spawn. 2 shots per clip. 0 damage. 5sec tranq duration. Causes victim to drop all items. SCPs have 40% chance to resist. SCP-173 immune. Humans who are repeatidly tranq'd in a short time have an exponentially higher chance to resist each time it succeeds.
 
-- `[Rock]` This is a rock. Left-click to melee someone in the face with it. Left-click to toss it a short distance. 
+- `[Rock]` This is a rock. Left-click to melee someone in the face with it. Right-click to toss it a short distance. 
 	- Is a SCP-018. Spawns in a random locker. Melee hit: 10dmg Throw hit: 20dmg. Does not bounce when thrown. Hynx's favorite item.
 
 - `[SCP-1499]` The gas mask that teleports you to another dimension, when you put it on. 
@@ -49,7 +49,7 @@
 	- Spawns in locked room behind 096 spawn. Gives you "Amnesia" effect for 10s after use.
 
 - `[SCP-2818]` A weapon that, when fired, will convert the entire biomass of it's shooter into the ammunition it fires. 
-	- Uses the shooter as the projectile. Can be re-used by other players. Kills the shooter when fired. If you hit another player, that player is also killed instantly.
+	- Uses the shooter as the projectile. Kills the shooter when fired. If you hit another player, that player is also killed instantly.
 
 - `[C4-119]` A frag-grenade with a much longer than normal fuse, that will stick to the first solid surface it comes in contact with. It can be detonated using a console command. ".detonate" while holding a Radio in your hand. 
 	- Detonation range of 100meters. Must have radio in your hand to use command. Recommend keybinding command with "cmdbind LETTER .det" where LETTER is a unused letter on your keyboard.
@@ -85,14 +85,18 @@
 
 - `[Pocket Dimension Zombie]` A mutated zombie that was subjected to SCP-106 too many times in their human life. They are resistant to ballistic damage, and have a small chance to teleport victims to the Pocket Dimension when they attack them.
 
-- `[Plague Zombie]` A mutated zombie that moves slower than normal zombies, and deal less up-front damage with their attacks, however they have a large chance to infect their victims with SCP-008. Anyone who dies while infected with SCP-008 will immediately become a zombie upon death.
+- `[Plague Zombie]` A mutated zombie that moves slower than normal zombies, and deal less up-front damage with their attacks, however they have a large chance to infect their victims with SCP-008. They also have an ability which fires a projectile that visually explodes similar to a grenade (does not do grenade damage), infecting victims with SCP-008. Anyone who dies while infected with SCP-008 will immediately become a zombie upon death.
 
 - `[Medic Zombie]` A former NTF Medic that, while slower, retained the ability to activate their healing ability, however now, it will heal other SCPs, instead of humans. They also do slightly less damage than normal zombies.
 
 - `[Berzerk Zombie]` This zombie is extremely bloodthirsty. While they have less health than normal zombies, their attacks deal significantly more damage, and they gain a temporary speed boost each time they kill someone.
 
-- `[Juggernaut Zombie]` The tank of zombies. This zombie moves more slowly than normal, however they are very difficult to kill, as they have double the health of a normal zombie.
-	- All zombies have a 45% chance to be replaced with a mutation when they spawn as a zombie
+- `[Juggernaut Zombie]` The tank of zombies. This zombie moves more slowly than normal, however they are very difficult to kill, as they have double the health of a normal zombie. They deal 50% normal zombie damage, however when they take damage they will gain AHP. The higher their AHP, the less damage they will take from subsequent damage sources. This applies to all types of damage.
+
+- `[Charger Zombies]` These zombies have a fair bit more than normal health and an ability that makes them charge in a straight line infront of them. Upon colliding with an object, they will be ensnared for 5sec. If they collided with a player, that player will take damage and also be ensnared; otherwise the zombie takes damage.
+
+- All zombies have a 45% chance to be replaced with a mutation when they spawn as a zombie
+
 
 ## New Mechanics
 
